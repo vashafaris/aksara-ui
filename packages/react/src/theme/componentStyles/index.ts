@@ -14,6 +14,7 @@ import tabs from './tabs';
 import toast from './toast';
 import tooltip from './tooltip';
 import subHeader from './subHeader';
+import datepicker from './datepicker';
 
 /**
  * Custom theme props based on custom component variants.
@@ -35,6 +36,7 @@ const componentStyles = {
   ...toast,
   ...tooltip,
   ...subHeader,
+  ...datepicker,
 };
 
 export default componentStyles;

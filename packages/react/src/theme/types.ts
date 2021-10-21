@@ -1,5 +1,4 @@
 import { RequiredTheme } from 'styled-system';
-
 // eslint-disable-next-line @typescript-eslint/ban-types
 type CSSObject = object; // TODO
 
